@@ -1,4 +1,4 @@
 # hello-world
 testing testing
 
-I like Victorian Industrial architecture, frites, and the Oxford comma.
+I like Victorian industrial architecture, frites, and the Oxford comma.
